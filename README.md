@@ -1,0 +1,2 @@
+# bashka
+ani ayaa isticmala
